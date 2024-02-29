@@ -1,2 +1,2 @@
 # SynthegratechInsertion
-Application Development - Synthegratech Registration (as Insertion) 
+Application Development - Synthegratech Registration Panel (as Insertion) 
